@@ -3,5 +3,17 @@
   "version": "1.0.1",
   "description": "Prettier config for my projects",
   "main": "index.js",
-  "license": "ISC"
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guggume/config-slash-prettier.git"
+  },
+  "author": "Sandeep Gunduboyina",
+  "bugs": {
+    "url": "https://github.com/guggume/config-slash-prettier/issues"
+  },
+  "homepage": "https://github.com/guggume/config-slash-prettier#readme"
 }
