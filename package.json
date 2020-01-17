@@ -1,0 +1,7 @@
+{
+  "name": "config-slash-prettier",
+  "version": "1.0.1",
+  "description": "Prettier config for my projects",
+  "main": "index.js",
+  "license": "ISC"
+}
